@@ -2,7 +2,7 @@
 
 ### API ###
 
-* Kawal Corona - https://api.kawalcorona.com/
+* Kawal Corona - https://kawalcorona.com/api/
 
 ### Dashbord UI ###
 
