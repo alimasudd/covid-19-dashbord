@@ -77,11 +77,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-//                CountryDropdown(
-//                  countries: ['CN', 'FR', 'IN', 'IT', 'UK', 'USA'],
-//                  country: _country,
-//                  onChanged: (val) => setState(() => _country = val),
-//                ),
               ],
             ),
             SizedBox(height: screenHeight * 0.03),
@@ -216,8 +211,6 @@ class _HomeScreenState extends State<HomeScreen> {
                   break;
               }
             },
-//              print("value");
-//              print("indo");},
           ),
         ),
       ),
